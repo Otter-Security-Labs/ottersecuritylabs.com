@@ -1,1 +1,1 @@
-# blog.ottersecuritylabs.com
+# www.ottersecuritylabs.com
