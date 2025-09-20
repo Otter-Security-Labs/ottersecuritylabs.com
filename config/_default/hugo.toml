@@ -3,7 +3,6 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-colorScheme = "Terminal"
 baseURL = "https://www.ottersecuritylabs.com/"
 defaultContentLanguage = "en"
 
