@@ -15,7 +15,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["Posts", "About Me"]
+# mainSections = ["Posts", "About Me"]
 # robots = ""
 
 disableImageOptimization = false
