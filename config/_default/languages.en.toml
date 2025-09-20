@@ -9,7 +9,7 @@ title = "Otter Security Labs"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
- logo = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
+  logo = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -22,7 +22,7 @@ title = "Otter Security Labs"
 #   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
-  { email = "mailto:patrick.mccabe@ottersecuritylabs.com" },
+      { email = "mailto:patrick.mccabe@ottersecuritylabs.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
