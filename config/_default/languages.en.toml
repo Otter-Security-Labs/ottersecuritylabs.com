@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Otter Security Labs"
 
 [params]
   displayName = "EN"
@@ -17,12 +17,12 @@ title = "Blowfish"
 [params.author]
   name = "Patrick McCabe"
   email = "patrick.mccabe@ottersecuritylabs.com"
-#   image = "img/blowfish_logo.png"
+  image = "https://github.com/organizations/Otter-Security-Labs/settings/profile"
 #   imageQuality = 96
 #   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
-      { email = "mailto:patrick.mccabe@ottersecuritylabs" },
+#      { email = "mailto:patrick.mccabe@" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -35,7 +35,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-      { github = "https://github.com/Otter-Security-Labs" },
+#      { github = "https://github.com/Otter-Security-Labs" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
