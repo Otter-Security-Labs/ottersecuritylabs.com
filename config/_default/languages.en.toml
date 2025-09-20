@@ -22,7 +22,7 @@ title = "Otter Security Labs"
 #   headline = "I'm only human"
   bio = "A little bit about you"
 #  links = [
-#     { email = "mailto:patrick.mccabe@" },
+    { email = "mailto:patrick.mccabe@ottersecuritylabs.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -73,4 +73,4 @@ title = "Otter Security Labs"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#  ]
+  ]
