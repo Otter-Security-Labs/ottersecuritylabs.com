@@ -19,8 +19,8 @@ title = "Otter Security Labs"
   email = "patrick.mccabe@ottersecuritylabs.com"
   image = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
 #   imageQuality = 96
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Cyber Security Engineer | Senior SOC Analyst | Incident Responder | Detection Engineer | CYSA+ | CCSK | CCZT | Zscaler Certified Deployment and Support Specialist"
+#  bio = "A little bit about you"
   links = [
       { email = "mailto:patrick.mccabe@ottersecuritylabs.com" },
 #     { link = "https://link-to-some-website.com/" },
