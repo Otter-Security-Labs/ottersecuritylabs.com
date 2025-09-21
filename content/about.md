@@ -85,6 +85,7 @@ Provided escalation support on event triage, log correlation, and advanced detec
 | Certification | Issuer / Notes |
 |---|---|
 | Certificate of Cloud Security Knowledge (CCSK) | Cloud Security Alliance |
+| Certificate of Competence in Zero Trust (CCZT) | Cloud Security Alliance |
 | CySA+ | CompTIA |
 | Zscaler Certified Deployment Specialist (IA & PA) | Zscaler |
 | Zscaler Certified Support Specialist (IA & PA) | Zscaler |
