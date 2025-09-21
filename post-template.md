@@ -2,7 +2,7 @@
 title = "Post Title"
 # Use ISO 8601 with timezone
 date = 2025-09-21T10:00:00-05:00
-lastmod = 2025-09-21T10:00:00-05:00
+<!-- lastmod = 2025-09-21T10:00:00-05:00 -->
 draft = true
 
 # SEO / summaries
