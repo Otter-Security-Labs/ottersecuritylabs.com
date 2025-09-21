@@ -18,8 +18,8 @@ Leverages data-driven insights to improve detection accuracy and strengthen secu
 
 ## Areas of Expertise
 
-| Training Development | Incident Response | Threat Analysis |
 |---|---|---|
+| Training Development | Incident Response | Threat Analysis |
 | SIEM Management | Log Correlation | Endpoint Security |
 | Security Operations | Data Visualization | Risk Mitigation |
 | Cyber Threat Intelligence | Security Policy | Vulnerability Management |
