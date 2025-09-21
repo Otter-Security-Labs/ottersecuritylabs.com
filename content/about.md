@@ -1,9 +1,10 @@
+
+
 # About Me
 
 # Patrick McCabe
 
-**Memphis, TN** · **Mobile:** 732-788-5730 · **Email:** patrick.j.mccabe5@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/patrick-mccabe-b4980314a/
+**Memphis, TN** · **Mobile:** 732-788-5730 
 
 ---
 
