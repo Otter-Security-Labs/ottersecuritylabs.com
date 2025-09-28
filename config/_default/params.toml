@@ -176,9 +176,3 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [advertisement]
   # adsense = ""
 
-[assets]
-  favicon           = "https://github.com/Otter-Security-Labs/ottersecuritylabs.com/blob/main/favicons/favicon.ico"
-  favicon16x16      = "https://github.com/Otter-Security-Labs/ottersecuritylabs.com/blob/main/favicons/favicon-16x16.png"
-  favicon32x32      = "https://github.com/Otter-Security-Labs/ottersecuritylabs.com/blob/main/favicons/favicon-32x32.png"
-  apple_touch_icon  = "https://github.com/Otter-Security-Labs/ottersecuritylabs.com/blob/main/favicons/apple-touch-icon.png"
-  safari_pinned_tab = "https://github.com/Otter-Security-Labs/ottersecuritylabs.com/blob/main/favicons/safari-pinned-tab.svg"
