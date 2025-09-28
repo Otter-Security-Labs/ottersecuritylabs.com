@@ -177,8 +177,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # adsense = ""
 
 [assets]
-  favicon           = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
-  favicon16x16      = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
-  favicon32x32      = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
-  apple_touch_icon  = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
-  safari_pinned_tab = "https://avatars.githubusercontent.com/u/216356021?s=200&v=4"
+  favicon           = ""
+  favicon16x16      = ""
+  favicon32x32      = ""
+  apple_touch_icon  = ""
+  safari_pinned_tab = ""
