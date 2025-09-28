@@ -1,4 +1,6 @@
-
++++
+date = 2025-09-28T10:00:00-06:00
++++
 # About Me
 
 # Patrick McCabe
